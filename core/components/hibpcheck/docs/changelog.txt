@@ -1,0 +1,5 @@
+Changelog for hibpCheck.
+
+hibpCheck 1.0.0-pl (February 11, 2015)
+====================================
+- Initial release.

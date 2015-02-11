@@ -16,7 +16,7 @@ Author: David Pede (dev@tasianmedia.com) (https://twitter.com/davepede)
 
 Copyright: (C) 2015 David Pede. All rights reserved. (dev@tasianmedia.com)
 
-Credits: Have I been pwned? was developed by Troy Hunt as a free resource for anyone to quickly assess if they may have been put at risk due to an online account of theirs having been compromised or "pwned" in a data breach. Troy is a Microsoft Most Valuable Professional awardee for Developer Security, blogger at https://www.troyhunt.com, international speaker on web security and the author of many top-rating security courses for web developers on Pluralsight.
+Credits: Have I been pwned? has been developed by Troy Hunt as a free resource for anyone to quickly assess if they may have been put at risk due to an online account of theirs having been compromised or "pwned" in a data breach. Troy is a Microsoft Most Valuable Professional awardee for Developer Security, blogger at https://www.troyhunt.com, international speaker on web security and the author of many top-rating security courses for web developers on Pluralsight.
 
 If you find hibpCheck useful or would like to support the project, please consider donating here: https://haveibeenpwned.com/donate
 
